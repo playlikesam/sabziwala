@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Aloo (Potato)",
+    "price": 35,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Pyaaz (Onion)",
+    "price": 40,
+    "image": "https://images.unsplash.com/photo-1519864600361-202f43f06fb9?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Tamatar (Tomato)",
+    "price": 55,
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Bhindi (Okra)",
+    "price": 60,
+    "image": "https://images.unsplash.com/photo-1528825871115-3581a5387919?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Gajar (Carrot)",
+    "price": 65,
+    "image": "https://images.unsplash.com/photo-1506084868230-bb9d95c24759?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Shimla Mirch (Capsicum)",
+    "price": 80,
+    "image": "https://images.unsplash.com/photo-1519864600361-202f43f06fb9?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Lauki (Bottle Gourd)",
+    "price": 28,
+    "image": "https://images.unsplash.com/photo-1463920959516-96df87ca35b2?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Palak (Spinach)",
+    "price": 35,
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Kheera (Cucumber)",
+    "price": 55,
+    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Baingan (Eggplant)",
+    "price": 48,
+    "image": "https://images.unsplash.com/photo-1464306076886-debede14fafc?auto=format&fit=crop&w=400&q=80"
+  }
+]
