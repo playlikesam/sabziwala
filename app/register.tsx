@@ -21,7 +21,7 @@ export default function RegisterScreen() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Sahil Sabziwala Register</Text>
+      <Text style={styles.title}>Sabziwala Register</Text>
       <TextInput
         style={styles.input}
         placeholder="Username"
